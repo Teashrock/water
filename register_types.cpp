@@ -1,5 +1,5 @@
 #include "register_types.h"
-#include "object_type_db.h"
+#include "core/object.h"
 #include "water.h"
 
 void register_water_types() {
